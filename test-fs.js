@@ -23,8 +23,8 @@ const index = arr.findIndex((n) => n.id === id);
 console.log(index);
 arr[index] = {
   ...arr[index],
-  nama: 'minna'
+  nama: 'minna',
 };
 
 console.log(arr[index]);
-console.log(arr)
+console.log(arr);
