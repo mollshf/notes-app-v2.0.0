@@ -143,4 +143,5 @@ module.exports = {
   editNotesById,
   deleteNotesById,
   myHome,
-  pageNotFound};
+  pageNotFound,
+};
